@@ -1,0 +1,17 @@
+{
+    "job_class": "PipelineJob",
+    "job_name": "01_API_TEST Task",
+    "note": "",
+    "parameters": {
+        "enabled": true,
+        "include_external_urls": true,
+        "job_type": "standard",
+        "llfeed_token": "FbmnjEeXDyIWLRPAuE60C7NgvbCCWr4C",
+        "pipeline_parameters": {},
+        "pipeline_path": "../shared/01_API_TEST",
+        "snaplex_path": "UltraCloudplex"
+    },
+    "schedule": {},
+    "trigger": {},
+    "trigger_type": "ScheduleTrigger"
+}
