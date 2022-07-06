@@ -8,7 +8,7 @@
         "job_type": "standard",
         "llfeed_token": "FbmnjEeXDyIWLRPAuE60C7NgvbCCWr4C",
         "pipeline_parameters": {},
-        "pipeline_path": "../shared/01_API_TEST",
+        "pipeline_path": null,
         "snaplex_path": "UltraCloudplex"
     },
     "schedule": {},
